@@ -1,6 +1,6 @@
 # Austin Buhl
 
-**Co-Founder, CEO & Chief Architect @ClassQuip**
+**Co-Founder, CEO & Chief Architect @[![ClassQuip](https://github.com/ClassQuip)**
 
 Building the action-first virtual classroom for K-12 — where teachers get frictionless tools, students stay engaged, and districts can roll out safely at scale.
 
