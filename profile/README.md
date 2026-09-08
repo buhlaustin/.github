@@ -123,6 +123,20 @@ As Chief Architect, I design and ship the platform end to end — from real-time
 
 ---
 
+## Projects
+
+Open-source and side projects from my public GitHub repos.
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**hvit-engine**](https://github.com/buhlaustin/hvit-engine) | Python, AMUSE, CUDA | Particle-mesh simulation framework for modeling hydrodynamics of relativistic stellar collisions near black holes — isolating kinetic energy signatures of hyper-velocity impact transients (HVIT). |
+| [**Cursor-Cloud-to-Paxel-Converter**](https://github.com/buhlaustin/Cursor-Cloud-to-Paxel-Converter) | Python | Unofficial bridge that exports Cursor Cloud Agent transcripts, converts them to Paxel's format, and uploads them for founder reflection and session analysis. |
+| [**HOS**](https://github.com/buhlaustin/HOS) | JavaScript | *House of Strategy* — a single-player text-based social strategy game inspired by reality competition shows like Big Brother. Survive alliances, nominations, and evictions against 10 AI houseguests. |
+| [**AmericanPongMobile**](https://github.com/buhlaustin/AmericanPongMobile) | TypeScript, React Native | Mobile Android build of American Pong with four game modes, power-ups, campaign levels, touch controls, and procedural audio. |
+| [**AmericanPong**](https://github.com/buhlaustin/AmericanPong) | JavaScript | Patriotic paddle Pong deployed as a Google Apps Script web app — classic CPU vs. player, first to 7 wins. |
+
+---
+
 ## Connect
 
 - **Website:** [classquip.com](https://classquip.com)
